@@ -546,3 +546,4 @@ class Kandinsky2_1:
             init_img=image,
             img_mask=img_mask,
         )
+# I did nothing
